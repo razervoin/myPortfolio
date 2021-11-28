@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 * {
   font-family: 'Lato', sans-serif;
-  color: #242424;
+  color: #000000;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -16,7 +16,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6, span {
-  color: #242424;
+  color: #000000;
   text-align: center;
   line-height: 1.25;
 }
@@ -54,7 +54,7 @@ i:hover {
   background-color: #fff;
 }
 .link__hover-effect--black:after {
-  background-color: #242424;
+  background-color: #000000;
 }
 
 .link__hover-effect:hover:after {
@@ -85,7 +85,7 @@ li {
 }
 
 .text--black {
-  color:#242424;
+  color:#000000;
 }
 
 .text--white {
@@ -93,7 +93,7 @@ li {
 }
 
 section:nth-child(even) {
-  background-color: #242424;
+  background-color: #000000;
 }
 
 .section__title {
@@ -120,7 +120,7 @@ nav {
 
 .nav__link--anchor {
   margin: 0 18px;
-  color: #242424;
+  color: #000000;
   font-weight: 700;
   font-size: 20px;
 }
@@ -132,7 +132,7 @@ nav {
 
 .personal__logo {
   font-size: 28px;
-  color: #242424;
+  color: #000000;
   font-weight: bold
 }
 
@@ -285,7 +285,7 @@ nav {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #1c1d25;
+  background-color: #000000;
   opacity: 0;
   transition: all 450ms ease;
   z-index: 2;
@@ -344,7 +344,7 @@ nav {
 /* FOOTER */
 
 footer {
-  background-color: #808080;
+  background-color: #000000;
 }
 
 .footer__social--list {
